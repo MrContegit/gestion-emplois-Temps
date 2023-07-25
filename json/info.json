@@ -1,0 +1,18 @@
+[
+    {
+        "title":"Cours",
+        "img":"assets/téléchargement.jfif"
+    },
+    {
+        "title":"Salle",
+        "img":"assets/salles.jfif"
+    },
+    {
+        "title":"Classe",
+        "img":"assets/ecoleElements.jpg"
+    },
+    {
+        "title":"Enseignement",
+        "img":"assets/enseignant.jfif"
+    }
+]

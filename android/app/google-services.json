@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826474824130",
+    "project_id": "gestiondesemploisdetemps",
+    "storage_bucket": "gestiondesemploisdetemps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826474824130:android:c25ca8e177e88803f0165b",
+        "android_client_info": {
+          "package_name": "com.example.gestion_emploi_temps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826474824130-ap0uudr857ulc7d08go05p1gvhqnhise.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7iKZpNveoRuXDG2RO-Gte7ip-_pclUQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826474824130-ap0uudr857ulc7d08go05p1gvhqnhise.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
